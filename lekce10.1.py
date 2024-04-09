@@ -17,7 +17,7 @@ class Book:
 
 
 
-book1=Book("python Crash Course", "Eric Matthes", 624)
+book1 = Book("python Crash Course", "Eric Matthes", 624)
 book2 = Book("JavaScript: The Good parts", "Douglas Crockford", 170)
 print(book1)
 book1.showInfo()
